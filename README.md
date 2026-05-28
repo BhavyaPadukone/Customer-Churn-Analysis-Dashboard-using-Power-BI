@@ -42,25 +42,25 @@ The project uses:
 
 ## Home Page
 
-![Home Dashboard](images/dashboard1.png)
+![Home Dashboard](dashboard1.png)
 
 ---
 
 ## Client Profile Dashboard
 
-![Client Profile](images/dashboard2.png)
+![Client Profile](dashboard2.png)
 
 ---
 
 ## Churner Profile Dashboard
 
-![Churner Profile](images/dashboard3.png)
+![Churner Profile](dashboard3.png)
 
 ---
 
 ## Ask a Question Dashboard
 
-![Q\&A Dashboard](images/dashboard4.png)
+![Q\&A Dashboard](dashboard4.png)
 
 ---
 
